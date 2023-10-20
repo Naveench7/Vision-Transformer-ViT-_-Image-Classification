@@ -1,4 +1,4 @@
-# Vision-Transformer-ViT-_-Image-Classification
+# Vision-Transformer-ViT
 
 ## Overview
 The Vision Transformer (ViT) is a neural network architecture that applies the transformer model, originally designed for natural language processing tasks, to computer vision. Instead of using conventional convolutional layers, ViT divides an image into fixed-size patches, linearly embeds them into vectors, and feeds the sequence of vectors into a transformer. The model then outputs classifications or other visual predictions. It has achieved state-of-the-art performance on several benchmarks, challenging the dominance of traditional convolutional neural networks (CNNs) in the vision domain.
